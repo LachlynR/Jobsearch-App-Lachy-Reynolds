@@ -13,3 +13,15 @@ This jobsearch manager app will allow job seekers who regularly apply for jobs t
 - Not everyone will have access to the internet, so people may manually apply for jobs, this app does not require internet to run which will make it accessible for those individuals.
 
 - Having to create a table and do the organising yourself can be lots of work which is why I am doing the hard work to creating this wonderful tool for job seekers.
+
+## User Story
+
+- Text-based job application manager
+- gems to use: 'json', 'tty-prompt', 'colorize'
+- Job seeker can run the application in either add, delete, search or update mode by using the relevant argument when running file
+- Job seeker can add a job to a local database providing the values for the job position, employer, industry, progress (options: Awaiting response, successful, unsuccessful), date of application, and some notes (optional).
+- Job seeker can update a job in the event some details may change such as the progress or notes. If a user makes a mistake when adding a job application they may use this to fix that.
+- Job seeker may be able to delete a job from the database, ask them if they are sure to delete before deleting PERMANENTLY
+- Job seeker will be able to search through their applied jobs. They can search by one of the attributes identified in the add function, or may be able to get all job applications. If they search by one of the attributes above give them the choice to search all or identify a specific item.
+- Add a loop to each function to allow the user use more than once.
+
