@@ -1,4 +1,4 @@
-# Jobsearch Terminal App by Lachy Reynolds
+# Jobsearch Terminal App by Lachy Reynolds - README
 
 ## Purpose
 
