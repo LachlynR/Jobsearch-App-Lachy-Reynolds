@@ -1,7 +1,7 @@
 require 'json'
 require 'tty-prompt'
 require 'colorize'
-require_relative 'job_class'
+require_relative 'classes/job_class'
 
 
 # UPDATE JSON
@@ -12,20 +12,22 @@ end
 
 # GET JSON
 def getJSON
+    json_init = File.open('jobs.json').read
+    File.write('jobs.json', Array.new) if json_init == ""
     json = File.open('jobs.json', 'r').read
-    File.write('jobs.json', Array.new) if json == ""
     json_arr = JSON.parse(json)
+    p json_arr.class
     return json_arr
 end
 
 # ADD
 $jobs = getJSON
 def addJob
-    values = user_input("add")
-    job = {:position => values.position, :employer => values.employer, :industry => values.industry, :progress => values.progress, :application_date => values.application_date, :notes => values.notes}
-    $jobs << job
-    updateJSON($jobs)
-    puts "Successfully Added! ^_^"
+    # values = user_input("add")
+    # job = {:position => values.position, :employer => values.employer, :industry => values.industry, :progress => values.progress, :application_date => values.application_date, :notes => values.notes}
+    # $jobs << job
+    # updateJSON($jobs)
+    # puts "Successfully Added! ^_^"
 end
 
 # SEARCH
