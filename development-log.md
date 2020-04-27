@@ -9,7 +9,7 @@
 
 ## 22/04/2020
 
-- Start of the journey to find out how to use JSON to create a local 'database' since SQLite3 wasn't an option ;-;.
+- Start of the journey to find out how to use JSON to create a local 'database' since I was not allowed to use SQLite3 which made this task 100 times more difficult as I have to learn how to use JSON and implement it into my application
 - Started to work on README.md
 - Added the purpose and the problems that my program will fix to README.md.
 
@@ -31,3 +31,10 @@
 
 - Enumerated completed items in the Done List on Trello.
 - Completed the add function whilst implementing the colorize and tty-prompt.
+
+## 27/04/2020
+
+- Completed Add, Search and Delete functions
+- Finished nearly all of the README.md file, missing 2 flow charts for search and delete.
+- Missing a the final trello board
+- Handled all potential errors
