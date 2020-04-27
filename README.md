@@ -29,8 +29,10 @@ This jobsearch manager app will allow job seekers who regularly apply for jobs t
 
 **How the user will be greeted:**
 
-INSERT DESCRIPTION HERE
-INSERT IMAGES HERE
+The user will be greeted with an ASCII banner that says JOBSEARCH MANAGER, followed by a prompt asking them to press enter to perform the task that was chosen based on the ARGV option.
+![Add Job Greeting UI](https://github.com/LachlynR/Jobsearch-App-Lachy-Reynolds/blob/master/docs/AddJob_greeting.PNG)
+![Add Job Greeting UI](https://github.com/LachlynR/Jobsearch-App-Lachy-Reynolds/blob/master/docs/SearchJob_greeting.PNG)
+![Add Job Greeting UI](https://github.com/LachlynR/Jobsearch-App-Lachy-Reynolds/blob/master/docs/DeleteJob_greeting.PNG)
 
 **How the user would use the add mode:**
 
