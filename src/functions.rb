@@ -35,6 +35,8 @@ end
 def searchJobs
     clear
     values = user_input "search"
+    clear
+    puts "Results:\n"
     if values == "all"
         $jobs.select {|job| output job}
     else
@@ -85,8 +87,8 @@ def user_input function
 
     if function == "search"
         clear
-        filter = select_prompt "What would you like to search by?", ["Position", "Employer", "Industry", "Progress", "Application Date", "All"]
-
+        filter = select_prompt "What would you like to search by?", ["Position", "Employer", "Industry", "Progress", "Application_Date", "All"]
+        clear
         return filter.downcase if filter == "All" 
 
         if filter == "Progress"
@@ -203,5 +205,4 @@ def greeting
              \/_/  \/_/ \/_/\/_/ \/_/ \/_/ \/_/\/_/ \/_____/ \/_____/ \/_/ /_/ 
                                                               
     EOF
-    sleep(4)
 end
