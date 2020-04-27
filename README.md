@@ -43,6 +43,7 @@ INSERT DESCRIPTION HERE
 ![Add Job Question 4](https://github.com/LachlynR/Jobsearch-App-Lachy-Reynolds/blob/master/docs/Add_q4.PNG)
 ![Add Job Question 5](https://github.com/LachlynR/Jobsearch-App-Lachy-Reynolds/blob/master/docs/Add_q5.PNG)
 ![Add Job Question 6](https://github.com/LachlynR/Jobsearch-App-Lachy-Reynolds/blob/master/docs/Add_q6.PNG)
+![Add Job Question 6](https://github.com/LachlynR/Jobsearch-App-Lachy-Reynolds/blob/master/docs/Add_successful.PNG)
 
 **How the user would use the search mode:**
 
