@@ -31,13 +31,18 @@ This jobsearch manager app will allow job seekers who regularly apply for jobs t
 
 The user will be greeted with an ASCII banner that says JOBSEARCH MANAGER, followed by a prompt asking them to press enter to perform the task that was chosen based on the ARGV option.
 ![Add Job Greeting UI](https://github.com/LachlynR/Jobsearch-App-Lachy-Reynolds/blob/master/docs/AddJob_greeting.PNG)
-![Add Job Greeting UI](https://github.com/LachlynR/Jobsearch-App-Lachy-Reynolds/blob/master/docs/SearchJob_greeting.PNG)
-![Add Job Greeting UI](https://github.com/LachlynR/Jobsearch-App-Lachy-Reynolds/blob/master/docs/DeleteJob_greeting.PNG)
+![Search Job Greeting UI](https://github.com/LachlynR/Jobsearch-App-Lachy-Reynolds/blob/master/docs/SearchJob_greeting.PNG)
+![Delete Job Greeting UI](https://github.com/LachlynR/Jobsearch-App-Lachy-Reynolds/blob/master/docs/DeleteJob_greeting.PNG)
 
 **How the user would use the add mode:**
 
 INSERT DESCRIPTION HERE
-INSERT IMAGES HERE
+![Add Job Question 1](https://github.com/LachlynR/Jobsearch-App-Lachy-Reynolds/blob/master/docs/Add_q1.PNG)
+![Add Job Question 2](https://github.com/LachlynR/Jobsearch-App-Lachy-Reynolds/blob/master/docs/Add_q2.PNG)
+![Add Job Question 3](https://github.com/LachlynR/Jobsearch-App-Lachy-Reynolds/blob/master/docs/Add_q3.PNG)
+![Add Job Question 4](https://github.com/LachlynR/Jobsearch-App-Lachy-Reynolds/blob/master/docs/Add_q4.PNG)
+![Add Job Question 5](https://github.com/LachlynR/Jobsearch-App-Lachy-Reynolds/blob/master/docs/Add_q5.PNG)
+![Add Job Question 6](https://github.com/LachlynR/Jobsearch-App-Lachy-Reynolds/blob/master/docs/Add_q6.PNG)
 
 **How the user would use the search mode:**
 
