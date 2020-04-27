@@ -31,47 +31,68 @@ This jobsearch manager app will allow job seekers who regularly apply for jobs t
 
 The user will be greeted with an ASCII banner that says JOBSEARCH MANAGER, followed by a prompt asking them to press enter to perform the task that was chosen based on the ARGV option.
 ![Add Job Greeting UI](https://github.com/LachlynR/Jobsearch-App-Lachy-Reynolds/blob/master/docs/AddJob_greeting.PNG)
+
 ![Search Job Greeting UI](https://github.com/LachlynR/Jobsearch-App-Lachy-Reynolds/blob/master/docs/SearchJob_greeting.PNG)
+
 ![Delete Job Greeting UI](https://github.com/LachlynR/Jobsearch-App-Lachy-Reynolds/blob/master/docs/DeleteJob_greeting.PNG)
 
 **How the user would use the add mode:**
 
-INSERT DESCRIPTION HERE
-![Add Job Question 1](https://github.com/LachlynR/Jobsearch-App-Lachy-Reynolds/blob/master/docs/Add_q1.PNG)
-![Add Job Question 2](https://github.com/LachlynR/Jobsearch-App-Lachy-Reynolds/blob/master/docs/Add_q2.PNG)
-![Add Job Question 3](https://github.com/LachlynR/Jobsearch-App-Lachy-Reynolds/blob/master/docs/Add_q3.PNG)
-![Add Job Question 4](https://github.com/LachlynR/Jobsearch-App-Lachy-Reynolds/blob/master/docs/Add_q4.PNG)
-![Add Job Question 5](https://github.com/LachlynR/Jobsearch-App-Lachy-Reynolds/blob/master/docs/Add_q5.PNG)
-![Add Job Question 6](https://github.com/LachlynR/Jobsearch-App-Lachy-Reynolds/blob/master/docs/Add_q6.PNG)
-![Add Job Question 6](https://github.com/LachlynR/Jobsearch-App-Lachy-Reynolds/blob/master/docs/Add_successful.PNG)
+![Add Job Question 1](https://github.com/LachlynR/Jobsearch-App-Lachy-Reynolds/blob/master/docs/images/Add%20Function/Add_q1.PNG)
+
+![Add Job Question 2](https://github.com/LachlynR/Jobsearch-App-Lachy-Reynolds/blob/master/docs/images/Add%20Function/Add_q2.PNG)
+
+![Add Job Question 3](https://github.com/LachlynR/Jobsearch-App-Lachy-Reynolds/blob/master/docs/images/Add%20Function/Add_q3.PNG)
+
+![Add Job Question 4](https://github.com/LachlynR/Jobsearch-App-Lachy-Reynolds/blob/master/docs/images/Add%20Function/Add_q4.PNG)
+
+![Add Job Question 5](https://github.com/LachlynR/Jobsearch-App-Lachy-Reynolds/blob/master/docs/images/Add%20Function/Add_q5.PNG)
+
+![Add Job Question 6](https://github.com/LachlynR/Jobsearch-App-Lachy-Reynolds/blob/master/docs/images/Add%20Function/Add_q6.PNG)
+
+![Successfully Added](https://github.com/LachlynR/Jobsearch-App-Lachy-Reynolds/blob/master/docs/images/Add%20Function/Add_successful.PNG)
 
 **How the user would use the search mode:**
 
 INSERT DESCRIPTION HERE
-INSERT IMAGES HERE
+![Search Job Question 1](https://github.com/LachlynR/Jobsearch-App-Lachy-Reynolds/blob/master/docs/images/Search%20Function/Search_q1.PNG)
+
+![Search Job Question 2](https://github.com/LachlynR/Jobsearch-App-Lachy-Reynolds/blob/master/docs/images/Search%20Function/Search_q2.PNG)
+
+![Search Job Results](https://github.com/LachlynR/Jobsearch-App-Lachy-Reynolds/blob/master/docs/images/Search%20Function/Search_resuls.PNG)
 
 **How the user would use the delete mode:**
 
 INSERT DESCRIPTION HERE
-INSERT IMAGES HERE
+![Search Job Question 1](https://github.com/LachlynR/Jobsearch-App-Lachy-Reynolds/blob/master/docs/images/Delete%20Function/DeleteJob_q1.PNG)
 
-**How the user would use the update mode:**
+![Search Job Question 2](https://github.com/LachlynR/Jobsearch-App-Lachy-Reynolds/blob/master/docs/images/Delete%20Function/DeleteJob_q2.PNG)
 
-INSERT DESCRIPTION HERE
-INSERT IMAGES HERE
+![Search Job Results](https://github.com/LachlynR/Jobsearch-App-Lachy-Reynolds/blob/master/docs/images/Delete%20Function/DeleteJob_successful.PNG)
+
+## Features
+
+**Add:**
+
+**Delete:**
+
+**Search:**
 
 ## Flowcharts
 
 **Add:**
-    ruby runme.rb add > user input > goes to JSON
-**Delete:**
 
-**Remove:**
+ruby runme.rb add > user input > goes to JSON
+
+**Delete:**
 
 **Search:**
 
 ## Trello
 
-New
-Working
+Trello Board During
+![Trello Board During](https://github.com/LachlynR/Jobsearch-App-Lachy-Reynolds/blob/master/docs/images/Trello/Trello_Board_half.PNG)
+
+Trello Board After
+
 Done
